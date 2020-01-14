@@ -4,11 +4,11 @@ Fun insights after 2 years of Code Platform
 
 ## Distribution of Assignments
 
-![png](output_9_0.png)
+![png](output_12_0.png)
 
 ## Most Popular Tags
 
-![png](output_11_0.png)
+![png](output_14_0.png)
 
 
 * **Javascript**, **Arrays** and **Basics** are the most popular topics
@@ -16,7 +16,7 @@ Fun insights after 2 years of Code Platform
 
 ## Top 25 Submissions - Number of Assignments Solved
 
-![png](output_15_0.png)
+![png](output_18_1.png)
 
 1. 600
 2. 580
@@ -24,7 +24,7 @@ Fun insights after 2 years of Code Platform
 
 ## Top 25 Submissions - Total Time Spent on the Code Platform
 
-![png](output_17_0.png)
+![png](output_20_0.png)
 
 1. Over 1000 hours
 2. Over 700 hours
@@ -36,7 +36,7 @@ Fun insights after 2 years of Code Platform
 2. Over 8500
 3. Over 8000
 
-![png](output_19_0.png)
+![png](output_22_0.png)
   
 ## Submission Attempts - Pass
 
