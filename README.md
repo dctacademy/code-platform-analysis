@@ -68,6 +68,6 @@ Fun insights after 2 years of Code Platform
 
 ![png](output_36_0.png)
 
-* **5 am and 9 am** are the most popular time of successful assignment submissions
+* **8 am** is the most popular time of successful assignment submissions
 * **12 am** has around 30 hours of average successful assignment submissions
-* **1 am to 4 am** have no submissions!
+* **1 am to 5 am** have no submissions!
